@@ -1,4 +1,4 @@
-# manageiqdockerized
+# Manageiq Dockerized
 
 This is a WIP repo for dockerizing [Manageiq](https://github.com/ManageIQ/manageiq).
 
